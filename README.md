@@ -1,2 +1,3 @@
 # Demo-for-home
-This my first repo.
+This my first github repo.
+Author: Bimal Dhungana 
